@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.jpg</file>
+        <file>User.jpg</file>
+        <file>keli.jpg</file>
+        <file>2.jpg</file>
+        <file>naxida.jpg</file>
+    </qresource>
+</RCC>
